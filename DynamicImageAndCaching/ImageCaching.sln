@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageCaching", "ImageCaching\ImageCaching.csproj", "{34AEFF74-A5D9-4A9F-B36F-8CCA25E269B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CacheProvider", "CacheProvider\CacheProvider.csproj", "{23855790-060D-4DCA-8457-D4C1FAA82B32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34AEFF74-A5D9-4A9F-B36F-8CCA25E269B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34AEFF74-A5D9-4A9F-B36F-8CCA25E269B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34AEFF74-A5D9-4A9F-B36F-8CCA25E269B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34AEFF74-A5D9-4A9F-B36F-8CCA25E269B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23855790-060D-4DCA-8457-D4C1FAA82B32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23855790-060D-4DCA-8457-D4C1FAA82B32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23855790-060D-4DCA-8457-D4C1FAA82B32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23855790-060D-4DCA-8457-D4C1FAA82B32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
